@@ -6,7 +6,7 @@ In this repo, I will upload my notebooks for weeks exercises for the first cours
 * [Jupyter Notebook](/Week01/C1M1_Assignment.ipynb)
 
 ## Week02:
-* [Jupyter Notebook]()
+* [Jupyter Notebook]
 
 ## Week03:
-* [Jupyter Notebook]()
+* [Jupyter Notebook]
