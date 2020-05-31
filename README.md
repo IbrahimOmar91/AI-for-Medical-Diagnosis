@@ -10,4 +10,5 @@ In this repo, I will upload my notebooks for weeks exercises for the first cours
 * [Jupyter Notebook](/Week02/C1M2_Assignment.ipynb)
 
 ## Week03 (Image segmentation on MRI images):
-* [Jupyter Notebook]
+![txt](/Week03/index.gif)
+* [Jupyter Notebook](/Week03/C1M3_Assignment.ipynb)
