@@ -7,7 +7,7 @@ In this repo, I will upload my notebooks for weeks exercises for the first cours
 * [Jupyter Notebook](/Week01/C1M1_Assignment.ipynb)
 
 ## Week02 (Evaluating models):
-* [Jupyter Notebook]
+* [Jupyter Notebook](/Week02/C1M2_Assignment.ipynb)
 
 ## Week03 (Image segmentation on MRI images):
 * [Jupyter Notebook]
